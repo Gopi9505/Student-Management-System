@@ -10,11 +10,6 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <title>Student list</title>
 <style>
-body{
-	background-image : url(resources/img/g.png);
-	background-repeat: no-repeat;
-	background-position : 50% 200px;
-}
 table{
 	width : 100%;
 	border-collapse: collapse; 

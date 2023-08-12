@@ -14,26 +14,26 @@
 			<table>
 				<tr>
 					<td>Student Roll Number :</td>
-					<td><input type="text" name="student_rollno" value="0"></td>
+					<td><input type="text" name="student_rollno" ></td>
 				</tr>
 				<tr>
 					<td>Student First Name :</td>
-					<td><input type="text" id="fname" name="student_fname" value="Nobita"></td>
+					<td><input type="text" id="fname" name="student_fname" ></td>
 				</tr>
 				<tr>
 					<td>Student Last Name :</td>
-					<td><input type="text" name="student_lname" value="N"></td>
+					<td><input type="text" name="student_lname" ></td>
 				</tr>
 				<tr>
 					<td>Student Email Id :</td>
-					<td><input type="text" name="student_email" value="n@gmail.com"></td>
+					<td><input type="text" name="student_email" ></td>
 				</tr>
 				<tr>
 					<td>Student Percentage :</td>
-					<td><input type="text" name="student_percentage" value="90.5"></td>
+					<td><input type="text" name="student_percentage" ></td>
 				</tr>
 				<tr>
-					<td><input type="submit" name="addStudent" value="Add"></td>
+					<td><input type="submit" name="addStudent" ></td>
 					<td><input type="reset" value="Reset"></td>
 				</tr>
 			</table>

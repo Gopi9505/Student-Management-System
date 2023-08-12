@@ -7,13 +7,6 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Welcome</title>
-<style>
-body{
-	background-image : url(resources/img/g.png);
-	background-repeat: no-repeat;
-	background-position : 50% 200px;
-}
-</style>
 </head>
 <body style="text-align:center">
 	<h1 style="color:red">Welcome Student Management System</h1>
